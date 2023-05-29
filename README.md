@@ -24,5 +24,5 @@
 ### Estudando no momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
-
 </div>
+![Snake animation](https://github.com/Fayye11/Fayye11/blob/output/github-contribution-grid-snake.svg)
