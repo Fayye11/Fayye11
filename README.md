@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=NodeJS&logoColor=white)&nbsp;
-![Banco de dados](https://img.shields.io/badge/Banco de dados-0D1117?style=for-the-badge&logo=Banco-de-dados&logoColor=white)&nbsp;
+![Banco de dados](https://img.shields.io/badge/Banco%20de%20dados-0D1117?style=for-the-badge&logo=NodeJS&logoColor=white)&nbsp;
  ![Html](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
   
 
