@@ -15,7 +15,8 @@
  ### Principais Habilidades:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![NodeJS](![image](https://github.com/Fayye11/Fayye11/assets/84148447/bf769c6f-5da3-4674-8971-a403b5a16bf5))&nbsp;
+![Banco de dados](![image](https://github.com/Fayye11/Fayye11/assets/84148447/913b59bb-1eb0-466d-91db-65d5485b6e83))&nbsp;
  ![Html](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
   
 
