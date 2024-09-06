@@ -18,6 +18,7 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=NodeJS&logoColor=white)&nbsp;
 ![Banco de dados](https://img.shields.io/badge/Banco%20de%20dados-0D1117?style=for-the-badge&logo=NodeJS&logoColor=white)&nbsp;
  ![Html](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
+ ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
   
 
 
