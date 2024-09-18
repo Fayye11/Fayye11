@@ -66,7 +66,7 @@ Criei um portfólio utilizando HTML, CSS, JavaScript, TypeScript e NodeJS para m
 ## 📬 Entre em Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauathome3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/cauã-wriel-santos-thomé-1b4566205/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-wriel-santos-thomé-1b4566205/)
 
 
 </div>
