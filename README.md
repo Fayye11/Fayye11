@@ -53,20 +53,20 @@ Criei um portfólio utilizando HTML, CSS, JavaScript, TypeScript e NodeJS para m
 
 ## 🔍 GitHub Analytics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cauawriel&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayye11&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Tecnologias e Ferramentas](https://skillicons.dev/icons?i=html,css,mysql,sqlite,python,php,django,js,typescript,nodejs,git,github)
+![Tecnologias e Ferramentas](https://skillicons.dev/icons?i=html,css,mysql,sqlite,python,js,typescript,nodejs,git,github)
 
 ---
 
 ## 📬 Entre em Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauathome3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#) [<!-- Coloque o link do seu LinkedIn aqui -->](https://www.linkedin.com/in/cauã-wriel-santos-thomé-1b4566205/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#) [https://www.linkedin.com/in/cauã-wriel-santos-thomé-1b4566205/]
 
 
 </div>
