@@ -31,10 +31,10 @@ Criei um portfólio utilizando HTML, CSS, JavaScript, TypeScript e NodeJS para m
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Fayye11&show_icons=true&themedark" alt="Minhas Estatísticas do GitHub">
+      <img src="https://github-readme-stats.vercel.app/api?username=Fayye11&show_icons=true&theme=dark" alt="Minhas Estatísticas do GitHub">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayye11&langs_count=8&layout=compact&themedark" alt="Linguagens Mais Usadas">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayye11&langs_count=8&layout=compact&theme=dark" alt="Linguagens Mais Usadas">
     </td>
   </tr>
 </table>
