@@ -13,13 +13,11 @@
  
 # Olá 👋 Eu sou Cauã Wriel Santos Thomé!
 
-Desenvolvedor back-end especializado em Python, NodeJS e SQL. Estou cursando Análise e Desenvolvimento de Sistemas e atualmente focando em aprimorar minhas habilidades em banco de dados e arquiteturas de microsserviços.
+Desenvolvedor back-end especializado em Python, NodeJS e SQL. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e focando em aprimorar minhas habilidades em banco de dados e arquiteturas de microsserviços.
 
-🌱 Estou trabalhando em um jogo 2D utilizando Python e sempre em busca de novos desafios que me permitam aprender e crescer na área de desenvolvimento.
-
-💬 Gosto de explorar novas tecnologias e estou sempre disposto a aprender mais.
-
-📫 Como me encontrar: cauathome3@gmail.com
+- 🌱 Estou trabalhando em um jogo 2D utilizando Python e sempre em busca de novos desafios que me permitam aprender e crescer na área de desenvolvimento.
+- 💬 Gosto de explorar novas tecnologias e estou sempre disposto a aprender mais.
+- 📫 Como me encontrar: cauathome3@gmail.com
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se você quiser colaborar ou conversar!
 
@@ -27,21 +25,49 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se voc�
 
 ## 🚀 Projetos em que estou trabalhando
 
-**Servidor Virtual na Nuvem para MySQL**  
+### [Servidor Virtual na Nuvem para MySQL](#)
 Desenvolvi um servidor virtual na nuvem para gerenciamento de banco de dados MySQL, otimizando a segurança e a escalabilidade de sistemas de dados.
 
-**Jogo 2D com Python (Em Andamento)**  
+### [Jogo 2D com Python (Em Andamento)](#)
 Estou desenvolvendo um jogo 2D utilizando Python. O projeto visa melhorar minhas habilidades em lógica de programação e criação de jogos.
 
-**Portfolio Profissional**  
+### [Portfolio Profissional](#)
 Criei um portfólio utilizando HTML, CSS, JavaScript, TypeScript e NodeJS para mostrar meus trabalhos e experiências.
 
 ---
-  
 
+## 📊 Minhas Estatísticas e Linguagens Mais Usadas
 
-### Estudando no momento:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cauawriel&show_icons=true&theme=radical" alt="Minhas Estatísticas do GitHub">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauawriel&langs_count=8&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔍 GitHub Analytics
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cauawriel&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Tecnologias e Ferramentas](https://skillicons.dev/icons?i=html,css,mysql,sqlite,python,php,django,js,typescript,nodejs,git,github)
+
+---
+
+## 📬 Entre em Contato
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauathome3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#) [<!-- Coloque o link do seu LinkedIn aqui -->](https://www.linkedin.com/in/cauã-wriel-santos-thomé-1b4566205/)
+
 
 </div>
 
